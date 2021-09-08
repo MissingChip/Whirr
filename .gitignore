@@ -1,1 +1,3 @@
 lib
+#macOS folder info
+.DS_Store
