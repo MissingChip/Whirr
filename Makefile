@@ -1,0 +1,3 @@
+
+CFLAGS = -Iinclude -Llib -lportaudio
+
